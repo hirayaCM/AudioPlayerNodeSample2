@@ -1,6 +1,6 @@
 //
 //  FilePlayerViewController.h
-//  AVAudioPlayerNodeSample
+//  AVAudioPlayerNodeSample2
 //
 //  Created by hiraya.shingo on 2015/02/06.
 //  Copyright (c) 2015年 Shingo Hiraya. All rights reserved.
